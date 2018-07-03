@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Siam.iml" filepath="$PROJECT_DIR$/Siam.iml" />
-      <module fileurl="file://E:\Programs\Android\AndroidStudioProjects\Siam\SiamUniversity.iml" filepath="E:\Programs\Android\AndroidStudioProjects\Siam\SiamUniversity.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://E:\Programs\Android\AndroidStudioProjects\Siam\app\app.iml" filepath="E:\Programs\Android\AndroidStudioProjects\Siam\app\app.iml" />
     </modules>
   </component>
 </project>
