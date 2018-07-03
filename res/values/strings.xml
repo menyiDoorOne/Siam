@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SiamUniversity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_my_list_view">MyListViewActivity</string>
+    <string name="title_activity_words_test">WordsTestActivity</string>
+    <string name="zerotest">zero</string>
+    <string name="onetest">one</string>
+    <string name="title_activity_word_test1">WordTest1Activity</string>
+    <string name="title_activity_word_test2">WordTest2Activity</string>
+    <string name="title_activity_word1">Word1Activity</string>
+    <string name="title_activity_word2">Word2Activity</string>
+    <string name="title_activity_word3">Word3Activity</string>
+    <string name="firstWord">one</string>
+    <string name="secondWord">two</string>
+    <string name="thirdWord">three</string>
+
+</resources>
