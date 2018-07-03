@@ -5,6 +5,8 @@ import android.os.Bundle;
 
 public class Aboutus_EnglishLanguageCenterActivity extends AppCompatActivity {
 
+    /*fxy first*/
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
