@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class Aboutus_EnglishLanguageCenterActivity extends AppCompatActivity {
 
     /*fxy first*/
+    /*lyl 2b*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
