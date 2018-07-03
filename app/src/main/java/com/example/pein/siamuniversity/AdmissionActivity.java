@@ -14,6 +14,8 @@ import java.util.List;
 
 public class AdmissionActivity extends AppCompatActivity {
 
+    /*这是一次Git尝试*/
+
     ListView myListView;
     List<String> itemString=new ArrayList<String>();
     List <Object> itemImage=new ArrayList<Object>();
